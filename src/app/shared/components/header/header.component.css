@@ -1,0 +1,33 @@
+/** HEADER COMPONENT **/
+
+.header{
+    margin: 20px 5%;    
+}
+
+.header img{
+    margin: 0;
+    padding: 0;
+}
+
+.header .br a{
+    color: #000000;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.logotipo{
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    width: 100px;
+}
+
+.br{
+    border-bottom:2px solid #c1272d;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}  
+
+ 
